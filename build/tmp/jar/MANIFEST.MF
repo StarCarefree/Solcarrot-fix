@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: solcarrot_fix
+Specification-Vendor: TheFlareStar
+Specification-Version: 1
+Implementation-Title: solcarrot-fix
+Implementation-Version: 1.0
+Implementation-Vendor: TheFlareStar
+Implementation-Timestamp: 2025-08-27T17:45:49+0800
+MixinConfigs: solcarrot_fix.mixins.json
+
